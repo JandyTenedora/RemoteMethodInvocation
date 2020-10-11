@@ -5,5 +5,6 @@ package org.example
 
 
 object RMIChatClient {
+  val testvalue = ":hello"
 
 }
